@@ -5,8 +5,8 @@ Disponíveis no sistema CLIP.
 
 ## Materiais de Apoio:
 
-* [Revisões de java.net](aula0)
-* [Aula 1](aula1) (Descoberta e ambiente de desenvolvimento)
+* [Revisões de java.net](lab0)
+* [Lab 1](lab1) (Descoberta e ambiente de desenvolvimento)
 
 <!-- * [Aula 2](aula2) (Webservices REST)
 * [Aula 3](aula3) (Tratamento de erros de comunicação em REST)\
@@ -17,12 +17,10 @@ Disponíveis no sistema CLIP.
 * [Aula 8](aula8) (Serviços REST e SOAP sobre HTTPS (SSL/TLS)
 * [Aula 9](aula9) (OAuth e interação com serviço externo Mastodon)
 * [Aula 10](aula10) (Kafka, Zookeeper, e alternativas de suporte à Replicação no Projeto)
--->
 
 ## Trabalhos práticos
 
 TBC
-<!--
 * Trabalho prático 1
   * **Prazo de entrega:** 23 de abril, 23h59, 15 minutos de tolerância
   * [Enunciado](trab1/trab1)
