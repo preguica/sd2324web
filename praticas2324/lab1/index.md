@@ -1,4 +1,4 @@
-# Aula prática 1
+# Lab 1
 
 ## Objectivo
 
@@ -10,8 +10,8 @@ No fim desta aula os alunos devem ser capazes de:
 
 ## Materiais:
 
-* [Versão HTML](sd2223-lab1.html)
-* [Código](sd2223-aula1.zip) (projeto Maven)
+* [Versão HTML](sd2324-lab1.html)
+* [Código](sd2324-lab1.zip) (projeto Maven)
 
 ## Exercícios propostos:
 
