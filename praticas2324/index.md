@@ -1,4 +1,4 @@
-# Aulas práticas
+# Aulas práticas (LABS)
 
 ## Sumários das aulas práticas
 Disponíveis no sistema CLIP.
